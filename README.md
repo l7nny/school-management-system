@@ -1,2 +1,3 @@
 # school-management-system
-A full stack school management system with ASP.NET CORE, Dapper, SQL SERVER and React
+A high-performance,full-stack, real-production school system built for **Faithword Academy**, Mombasa. Manages full student lifecycle, from registration to graduation, includin financial tracking, reporting and student exams.
+
