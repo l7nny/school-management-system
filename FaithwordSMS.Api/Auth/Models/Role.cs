@@ -1,11 +1,10 @@
- namespace FaithwordSMS.Api.Auth.Models
+namespace FaithwordSMS.Api.Auth.Models
 {
- public  enum Role
-        {
-            Director,
-            Teacher,
-            Parent
-          }
- }    
+    public enum Role
+    {
+        Director,
+        Teacher,
+        Parent
+    }
+}
 
- 
